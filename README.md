@@ -4,7 +4,7 @@
 </picture>
 
 <p align="center">
-  Full-stack developer. Web, mobil ve oyun tarafında fikirleri ürüne dönüştürüyorum.
+  Full-stack developer
 </p>
 
 <p align="center">
