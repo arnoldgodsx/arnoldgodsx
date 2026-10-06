@@ -1,0 +1,71 @@
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="ArnoldGods — AI systems, built in the open." width="100%">
+</picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/arnoldgodsx"><b>GitHub</b></a> &nbsp; / &nbsp;
+  <a href="https://www.youtube.com/@ArnoldGods"><b>YouTube</b></a> &nbsp; / &nbsp;
+  <a href="https://x.com/ArnoldGods"><b>X</b></a> &nbsp; / &nbsp;
+  <a href="mailto:merdogdu911@gmail.com"><b>İletişim</b></a>
+</p>
+
+Ben **ArnoldGods**. Ajan sistemleri kuruyor, yapay zekâ modellerini gerçek işlerde test ediyor ve kullandığım araçları açık paylaşıyorum.
+Burada kodları inceleyebilir, becerileri yeniden kullanabilir ve deneyleri kendin doğrulayabilirsin.
+
+## Projeler
+
+<p>
+  <a href="https://github.com/arnoldgodsx/agent-hafiza"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-agent-hafiza-dark.svg"><img src="assets/card-agent-hafiza-light.svg" alt="agent-hafiza — Markdown tabanlı yerel ikinci beyin." width="49%"></picture></a>
+  <a href="https://github.com/arnoldgodsx/claude-skills"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-claude-skills-dark.svg"><img src="assets/card-claude-skills-light.svg" alt="claude-skills — Tekrar kullanılabilir ajan becerileri." width="49%"></picture></a>
+  <a href="https://github.com/arnoldgodsx/model-arena"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-model-arena-dark.svg"><img src="assets/card-model-arena-light.svg" alt="model-arena — Aynı prompt, farklı modeller." width="49%"></picture></a>
+  <a href="https://github.com/arnoldgodsx/terminal-kit"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-terminal-kit-dark.svg"><img src="assets/card-terminal-kit-light.svg" alt="terminal-kit — Terminal ve çoklu-ajan araçları." width="49%"></picture></a>
+</p>
+
+## Tezgâhta
+
+**Ajanlar için ortak bir kontrol katmanı.**
+Hafızayı, bağlamı, araçları ve çalışma kayıtlarını tek yerde birleştirmeye çalışıyorum; amaç, işin oturumlar ve araçlar arasında kesintisiz sürmesi.
+
+**Aktif geliştirme aşamasında.** Kod şu an özel.
+
+## Açılacak birkaç deney
+
+| Deney | Nereye bakmalı |
+| :--- | :--- |
+| [model-arena](https://github.com/arnoldgodsx/model-arena) | Aynı görevi çözen farklı nesil modeller, yan yana. |
+| [prompt-lab](https://github.com/arnoldgodsx/prompt-lab) | Tek dosyalık demolar ve onları üreten promptlar. |
+| [agent-fleet](https://github.com/arnoldgodsx/agent-fleet) | Birden çok ajanı paralel çalıştırma denemeleri. |
+
+## Araç çantası
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-b45309?style=flat-square&logo=anthropic&logoColor=white&labelColor=1f2328)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=1f2328)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=1f2328)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1f2328)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=1f2328)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white&labelColor=1f2328)
+
+## İstatistikler
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=arnoldgodsx&show_icons=true&theme=transparent&title_color=f59e0b&icon_color=f59e0b&text_color=8b949e&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=arnoldgodsx&show_icons=true&theme=transparent&title_color=b45309&icon_color=b45309&text_color=656d76&hide_border=true" alt="GitHub istatistikleri" width="49%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldgodsx&layout=compact&theme=transparent&title_color=f59e0b&text_color=8b949e&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldgodsx&layout=compact&theme=transparent&title_color=b45309&text_color=656d76&hide_border=true" alt="En çok kullanılan diller" width="49%">
+  </picture>
+</p>
+
+<br>
+
+---
+
+<p align="center">
+  <b>Kur. Test et. İncele. Paylaş.</b><br>
+  <sub>İş birliği için: <a href="mailto:merdogdu911@gmail.com">merdogdu911@gmail.com</a></sub>
+</p>
