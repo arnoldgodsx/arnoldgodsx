@@ -14,9 +14,7 @@ for (const [k, v] of Object.entries(imgs)) html = html.replaceAll(k, 'file:///' 
 const tmp = path.join(__dirname, '_built.html');
 fs.writeFileSync(tmp, html);
 
-const names = { hero: 'hero', 'h-work': 'head-work', 'card-apeks': 'card-apeks', 'card-dw': 'card-arnolddw',
-  'card-corridor': 'card-corridor', 'card-shipnote': 'card-shipnote', 'h-yt': 'head-youtube', yt: 'youtube',
-  'h-about': 'head-about', about: 'about', foot: 'footer' };
+const names = { hero: "hero" };
 
 (async () => {
   const b = await chromium.launch();
