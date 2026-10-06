@@ -41,23 +41,21 @@ Hafızayı, bağlamı, araçları ve çalışma kayıtlarını tek yerde birleş
 
 ## Araç çantası
 
-![Claude Code](https://img.shields.io/badge/Claude%20Code-b45309?style=flat-square&logo=anthropic&logoColor=white&labelColor=1f2328)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=1f2328)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=1f2328)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1f2328)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=1f2328)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white&labelColor=1f2328)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" alt="Claude Code, Node.js, TypeScript, Python, Git, Obsidian">
+</picture>
 
 ## İstatistikler
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=arnoldgodsx&show_icons=true&theme=transparent&title_color=f59e0b&icon_color=f59e0b&text_color=8b949e&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=arnoldgodsx&show_icons=true&theme=transparent&title_color=b45309&icon_color=b45309&text_color=656d76&hide_border=true" alt="GitHub istatistikleri" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=arnoldgodsx&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=ffffff">
+    <img src="https://github-readme-stats.vercel.app/api?username=arnoldgodsx&show_icons=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=000000&border_color=000000" alt="GitHub istatistikleri" width="49%">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldgodsx&layout=compact&theme=transparent&title_color=f59e0b&text_color=8b949e&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldgodsx&layout=compact&theme=transparent&title_color=b45309&text_color=656d76&hide_border=true" alt="En çok kullanılan diller" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldgodsx&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldgodsx&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&border_color=000000" alt="En çok kullanılan diller" width="49%">
   </picture>
 </p>
 
