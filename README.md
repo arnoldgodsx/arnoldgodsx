@@ -42,8 +42,8 @@ Hafızayı, bağlamı, araçları ve çalışma kayıtlarını tek yerde birleş
 ## Araç çantası
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img src="assets/stack-light.svg" alt="Claude Code, Node.js, TypeScript, Python, Git, Obsidian">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.png">
+  <img src="assets/stack-light.png" alt="Claude Code, Node.js, TypeScript, Python, Git, Obsidian">
 </picture>
 
 ## İstatistikler
