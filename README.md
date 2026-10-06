@@ -1,69 +1,80 @@
-<p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img src="assets/banner-light.png" alt="ArnoldGods — AI systems, built in the open." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.png">
+  <img src="assets/hero-light.png" alt="ArnoldGods — Fikirden ürüne, sessizce ve titizlikle. Full-stack developer." width="100%">
 </picture>
-</p>
 
 <p align="center">
-  <a href="https://github.com/arnoldgodsx"><b>GitHub</b></a> &nbsp; / &nbsp;
-  <a href="https://www.youtube.com/@ArnoldGods"><b>YouTube</b></a> &nbsp; / &nbsp;
-  <a href="https://x.com/ArnoldGods"><b>X</b></a> &nbsp; / &nbsp;
-  <a href="mailto:merdogdu911@gmail.com"><b>İletişim</b></a>
+  <a href="https://www.youtube.com/@ArnoldGods"><b>YouTube</b></a> &nbsp;·&nbsp;
+  <a href="https://x.com/ArnoldGods"><b>X</b></a> &nbsp;·&nbsp;
+  <a href="mailto:merdogdu911@gmail.com"><b>E-posta</b></a>
 </p>
 
-Ben **ArnoldGods**. Ajan sistemleri kuruyor, yapay zekâ modellerini gerçek işlerde test ediyor ve kullandığım araçları açık paylaşıyorum.
-Burada kodları inceleyebilir, becerileri yeniden kullanabilir ve deneyleri kendin doğrulayabilirsin.
-
-## Projeler
-
-<p>
-  <a href="https://github.com/arnoldgodsx/agent-hafiza"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-agent-hafiza-dark.png"><img src="assets/card-agent-hafiza-light.png" alt="agent-hafiza — Markdown tabanlı yerel ikinci beyin." width="49%"></picture></a>
-  <a href="https://github.com/arnoldgodsx/claude-skills"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-claude-skills-dark.png"><img src="assets/card-claude-skills-light.png" alt="claude-skills — Tekrar kullanılabilir ajan becerileri." width="49%"></picture></a>
-  <a href="https://github.com/arnoldgodsx/model-arena"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-model-arena-dark.png"><img src="assets/card-model-arena-light.png" alt="model-arena — Aynı prompt, farklı modeller." width="49%"></picture></a>
-  <a href="https://github.com/arnoldgodsx/terminal-kit"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-terminal-kit-dark.png"><img src="assets/card-terminal-kit-light.png" alt="terminal-kit — Terminal ve çoklu-ajan araçları." width="49%"></picture></a>
-</p>
-
-## Tezgâhta
-
-**Ajanlar için ortak bir kontrol katmanı.**
-Hafızayı, bağlamı, araçları ve çalışma kayıtlarını tek yerde birleştirmeye çalışıyorum; amaç, işin oturumlar ve araçlar arasında kesintisiz sürmesi.
-
-**Aktif geliştirme aşamasında.** Kod şu an özel.
-
-## Açılacak birkaç deney
-
-| Deney | Nereye bakmalı |
-| :--- | :--- |
-| [model-arena](https://github.com/arnoldgodsx/model-arena) | Aynı görevi çözen farklı nesil modeller, yan yana. |
-| [prompt-lab](https://github.com/arnoldgodsx/prompt-lab) | Tek dosyalık demolar ve onları üreten promptlar. |
-| [agent-fleet](https://github.com/arnoldgodsx/agent-fleet) | Birden çok ajanı paralel çalıştırma denemeleri. |
-
-## Araç çantası
+<br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.png">
-  <img src="assets/stack-light.png" alt="Claude Code, Node.js, TypeScript, Python, Git, Obsidian">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/head-work-dark.png">
+  <img src="assets/head-work-light.png" alt="(01) Seçili işler — Tezgâhta olanlar" width="100%">
 </picture>
 
-## İstatistikler
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-apeks-dark.png">
+  <img src="assets/card-apeks-light.png" alt="N°01 Apeks — Direksiyon hocaları için akıllı ders planlayıcı. TypeScript, Vite, Firebase, Capacitor." width="100%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-arnolddw-dark.png">
+  <img src="assets/card-arnolddw-light.png" alt="N°02 ArnoldDW — YouTube ve Instagram içeriklerini indiren Windows uygulaması. Python, yt-dlp." width="100%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-corridor-dark.png">
+  <img src="assets/card-corridor-light.png" alt="N°03 Corridor — 9x9 tahtada iki kişilik strateji oyunu. Godot 4, GDScript, Nakama, PostgreSQL." width="100%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-shipnote-dark.png">
+  <img src="assets/card-shipnote-light.png" alt="N°04 ShipNote — Commit'lerden insan diline sürüm notları. Next.js, TypeScript." width="100%">
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/head-youtube-dark.png">
+  <img src="assets/head-youtube-light.png" alt="(02) Kanal — Ekranda da varım" width="100%">
+</picture>
+
+<a href="https://www.youtube.com/@ArnoldGods">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/youtube-dark.png">
+  <img src="assets/youtube-light.png" alt="ArnoldGods YouTube — Yazılım, yapay zekâ ve ürün geliştirme; perde arkasıyla. Yakında." width="100%">
+</picture>
+</a>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/head-about-dark.png">
+  <img src="assets/head-about-light.png" alt="(03) Hakkında — Araç çantası" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.png">
+  <img src="assets/about-light.png" alt="Web: TypeScript, Next.js, Vite, React. Mobil: Capacitor, Android, Firebase. Oyun: Godot 4, GDScript, Nakama. Masaüstü: Python. AI: Claude Code, Gemini, ajan iş akışları." width="100%">
+</picture>
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=arnoldgodsx&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=ffffff">
-    <img src="https://github-readme-stats.vercel.app/api?username=arnoldgodsx&show_icons=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=000000&border_color=000000" alt="GitHub istatistikleri" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=arnoldgodsx&show_icons=true&count_private=true&include_all_commits=true&hide_rank=false&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&ring_color=ffffff&border_color=ffffff&border_radius=0">
+    <img src="https://github-readme-stats.vercel.app/api?username=arnoldgodsx&show_icons=true&count_private=true&include_all_commits=true&hide_rank=false&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=000000&ring_color=000000&border_color=000000&border_radius=0" alt="GitHub istatistikleri" width="49.5%">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldgodsx&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldgodsx&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&border_color=000000" alt="En çok kullanılan diller" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=arnoldgodsx&background=000000&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border_radius=0&locale=tr">
+    <img src="https://streak-stats.demolab.com/?user=arnoldgodsx&background=FFFFFF&border=000000&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&border_radius=0&locale=tr" alt="Katkı serisi" width="49.5%">
   </picture>
 </p>
 
 <br>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.png">
+  <img src="assets/footer-light.png" alt="Bir fikrin mi var? Yaz, konuşalım — merdogdu911@gmail.com" width="100%">
+</picture>
 
-<p align="center">
-  <b>Kur. Test et. İncele. Paylaş.</b><br>
-  <sub>İş birliği için: <a href="mailto:merdogdu911@gmail.com">merdogdu911@gmail.com</a></sub>
-</p>
+<p align="center"><sub>Karakter: Gemini Nano Banana Pro · Tasarım ve kod: <code>tools/</code></sub></p>
