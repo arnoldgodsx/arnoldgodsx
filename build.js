@@ -75,8 +75,9 @@ function stackStrip(t) {
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${Math.ceil(x + 5)}" height="56" viewBox="0 0 ${Math.ceil(x + 5)} 56" role="img" aria-label="Araç çantası: ${stack.join(', ')}">${out}</svg>`;
 }
 
-for (const f of fs.readdirSync('assets')) fs.unlinkSync(`assets/${f}`);
-for (const [name, t] of Object.entries(themes)) {
+
+for (const [name, t] of Object.entries(themes)) { // banner/kartlar agy ile PNG üretiliyor (tools/); burada yalnızca stack
+  fs.writeFileSync(`assets/stack-${name}.svg`, stackStrip(t)); continue;
   fs.writeFileSync(`assets/banner-${name}.svg`, banner(t));
   fs.writeFileSync(`assets/stack-${name}.svg`, stackStrip(t));
   for (const c of cards) fs.writeFileSync(`assets/card-${c.id}-${name}.svg`, card(c, t));

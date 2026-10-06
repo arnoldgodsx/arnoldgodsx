@@ -1,7 +1,7 @@
 <p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="ArnoldGods — AI systems, built in the open." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <img src="assets/banner-light.png" alt="ArnoldGods — AI systems, built in the open." width="100%">
 </picture>
 </p>
 
@@ -18,10 +18,10 @@ Burada kodları inceleyebilir, becerileri yeniden kullanabilir ve deneyleri kend
 ## Projeler
 
 <p>
-  <a href="https://github.com/arnoldgodsx/agent-hafiza"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-agent-hafiza-dark.svg"><img src="assets/card-agent-hafiza-light.svg" alt="agent-hafiza — Markdown tabanlı yerel ikinci beyin." width="49%"></picture></a>
-  <a href="https://github.com/arnoldgodsx/claude-skills"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-claude-skills-dark.svg"><img src="assets/card-claude-skills-light.svg" alt="claude-skills — Tekrar kullanılabilir ajan becerileri." width="49%"></picture></a>
-  <a href="https://github.com/arnoldgodsx/model-arena"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-model-arena-dark.svg"><img src="assets/card-model-arena-light.svg" alt="model-arena — Aynı prompt, farklı modeller." width="49%"></picture></a>
-  <a href="https://github.com/arnoldgodsx/terminal-kit"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-terminal-kit-dark.svg"><img src="assets/card-terminal-kit-light.svg" alt="terminal-kit — Terminal ve çoklu-ajan araçları." width="49%"></picture></a>
+  <a href="https://github.com/arnoldgodsx/agent-hafiza"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-agent-hafiza-dark.png"><img src="assets/card-agent-hafiza-light.png" alt="agent-hafiza — Markdown tabanlı yerel ikinci beyin." width="49%"></picture></a>
+  <a href="https://github.com/arnoldgodsx/claude-skills"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-claude-skills-dark.png"><img src="assets/card-claude-skills-light.png" alt="claude-skills — Tekrar kullanılabilir ajan becerileri." width="49%"></picture></a>
+  <a href="https://github.com/arnoldgodsx/model-arena"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-model-arena-dark.png"><img src="assets/card-model-arena-light.png" alt="model-arena — Aynı prompt, farklı modeller." width="49%"></picture></a>
+  <a href="https://github.com/arnoldgodsx/terminal-kit"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-terminal-kit-dark.png"><img src="assets/card-terminal-kit-light.png" alt="terminal-kit — Terminal ve çoklu-ajan araçları." width="49%"></picture></a>
 </p>
 
 ## Tezgâhta
