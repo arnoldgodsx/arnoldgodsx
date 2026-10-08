@@ -3,9 +3,7 @@
   <img src="assets/hero-light.png" alt="ArnoldGods" width="100%">
 </picture>
 
-<p align="center">
-  Full-stack developer
-</p>
+
 
 <p align="center">
   <a href="https://www.youtube.com/@ArnoldGods">YouTube</a> &nbsp;·&nbsp;
